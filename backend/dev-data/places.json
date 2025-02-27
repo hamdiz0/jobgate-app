@@ -1,0 +1,146 @@
+[
+  {
+    "location": {
+      "description": "Sousse, Tunisia",
+      "type": "Point",
+      "coordinates": [35.759624,10.7167393],
+      "address": "301 Biscayne Blvd, Khniss, FL 33132, Tunisia" 
+    },
+    "startDates": [
+      "2024-04-19T09:00:00.000Z"
+    ],
+    "_id": "5c8a1dfa2f8fb814b56fa181",
+    "name": "Maison Hamdi",
+    "type" : "r+1", 
+    "description": "a place",
+    "createdBy" : "5c8a1dfa2f8fb814b56fa181"
+  },
+  {
+    "location": {
+      "description": "Sousse, Tunisia",
+      "type": "Point",
+      "coordinates": [35.77968636340536, 10.690795862833394],
+      "address": "301 Biscayne Blvd, Khniss, FL 33132, Tunisia"
+    },
+    "startDates": [
+      "2024-05-19T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2952",
+    "name": "maison Sabrine",
+    "type" : "r+1", 
+    "description": "a place",
+    "createdBy" : "5c8a1dfa2f8fb814b56fa181"
+  },
+  {
+    "location": {
+      "description": "Mahdia, Tunisia",
+      "type": "Point",
+      "coordinates": [35.6222037,10.9957484],
+      "address": "301 Biscayne Blvd, Khniss, FL 33132, Tunisia"
+    },
+    "startDates": [
+      "2024-04-19T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295b",
+    "name": "maison Mounira",
+    "type" : "r+2", 
+    "description": "a place",
+    "createdBy" : "5c8a1dfa2f8fb814b56fa181"
+  },
+  {
+    "location": {
+      "description": "Monastir, Tunisia",
+      "type": "Point",
+      "coordinates": [35.6715914,10.8832355],
+      "address": "301 Biscayne Blvd, Khniss, FL 33132, Tunisia"
+    },
+    "startDates": [
+      "2024-06-19T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2962",
+    "name": "maison Aziz",
+    "type" : "terrain vide", 
+    "description": "a place",
+    "createdBy" : "5c8a21d02f8fb814b56fa189"
+  },
+  {
+    "location": {
+      "description": "Monastir, Tunisia",
+      "type": "Point",
+      "coordinates": [35.6786751,10.8607523],
+      "address": "301 Biscayne Blvd, Khniss, FL 33132, Tunisia"
+    },
+    "startDates": [
+      "2024-06-19T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2959",
+    "name": "maison Hatem",
+    "type" : "r+3", 
+    "description": "a place",
+    "createdBy" : "5c8a21d02f8fb814b56fa189"
+  },
+  {
+    "location": {
+      "description": "Tunis, Tunisia",
+      "type": "Point",
+      "coordinates": [36.6774615,10.5071073],
+      "address": "301 Biscayne Blvd, Khniss, FL 33132, Tunisia"
+    },
+    "startDates": [
+      "2024-05-19T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2971",
+    "name": "maison Haithem",
+    "type" : "r+1", 
+    "description": "a place",
+    "createdBy" : "5c8a23412f8fb814b56fa18c"
+  },
+  {
+    "location": {
+      "description": "Monastir, Tunisia",
+      "type": "Point",
+      "coordinates": [35.7616807,10.7868513],
+      "address": "301 Biscayne Blvd, Khniss, FL 33132, Monastir"
+    },
+    "startDates": [
+      "2024-05-19T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2975",
+    "name": "maison Iheb",
+    "type" : "r+2", 
+    "description": "a place",
+    "createdBy" : "5c8a23c82f8fb814b56fa18d"
+  },
+  {
+    "location": {
+      "description": "Sousse, Tunisia",
+      "type": "Point",
+      "coordinates": [35.83027051055575, 10.627591111441957],
+      "address": "305 Biscayne Blvd, Hammem Sousse, FL 33132, Tunisia"
+    },
+    "startDates": [
+      "2024-06-19T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2968",
+    "name": "maison Saber",
+    "type" : "r+3", 
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "createdBy" : "5c8a1d5b0190b214360dc057"
+  },
+  {
+    "location": {
+      "description": "Monastir, Tunisia",
+      "type": "Point",
+      "coordinates": [35.649292448413476, 10.918117783660824],
+      "address": "301 Biscayne Blvd, Moknine, FL 33132, Tunisia"
+    },
+    "startDates": [
+      "2024-04-19T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2950",
+    "name": "maison Nejib",
+    "type" : "terrain vide", 
+    "description": "a place",
+    "createdBy" : "5c8a21d02f8fb814b56fa189"
+  }
+]
